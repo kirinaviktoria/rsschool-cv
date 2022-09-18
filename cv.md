@@ -42,3 +42,4 @@ function spinWords(string){
   }
   return strArr.join(' ');
 }
+```
