@@ -1,1 +1,1 @@
-https://Kir404.github.io/rsschool-cv/
+https://kirinaviktoria.github.io/rsschool-cv/
